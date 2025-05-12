@@ -2,7 +2,7 @@
 # Project Title
 
 ## 📄 View Poster PDF
-[Click here to view the PDF](ISAM-2023-Student-Poster-rlung_FINAL.pdf)
+[Click here to view the PDF](ISAM-2023-Student-Poster-rlung_FINAL1.pdf)
 
 ## 🖼️ Poster Image
 ![rLung Poster](rLung_Poster.png)
